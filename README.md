@@ -1,6 +1,6 @@
 # WhatsApp Chat Analyzer🔢📊
 
-### **LIVE LINK:** [https://whatsapp-chats-insights.streamlit.app/](https://whatsapp-chats-insights.streamlit.app/)
+### **LIVE LINK:** https://whatsapp-chat-analyzer-u9t581i3ch.streamlit.app/
 
 _Note: Please copy the app URL and paste it in a new tab for smooth functioning of the app._
 
@@ -12,7 +12,7 @@ _Note: Please download the WhatsApp chat export without media for optimal result
 
 ### 📅 First & Last Message Dates
 
-![image](https://github.com/user-attachments/assets/c61dbe16-2332-4abc-8d27-2696a0c74cc5)
+![image]https://whatsapp-chat-analyzer-u9t581i3ch.streamlit.app/
 This section displays the date of the first and last messages in the selected chat, giving insight into the duration of the conversation history.
 
 ### 👀 Top Statistics
@@ -59,13 +59,13 @@ The Word Cloud feature provides a visual representation of the most frequently u
 
 ### 🕒 Weekly Activity Heatmap
 
-![image](https://github.com/user-attachments/assets/1baf98da-72ce-4cec-83ca-0a77dd4d6c23)
+![image]https://whatsapp-chat-analyzer-u9t581i3ch.streamlit.app/
 
 The Weekly Activity Heatmap shows the distribution of messages throughout the week and at different times of the day. It visually represents peak activity times, allowing users to see which days and hours are the most active in the chat.
 
 ### 👀 Emoji Analysis
 
-![image](https://github.com/user-attachments/assets/d20b7052-4b2f-4b8a-8f9b-458f035916b1)
+![image]https://whatsapp-chat-analyzer-u9t581i3ch.streamlit.app/
 
 The Emoji Analysis provides insights into emoji usage in the chat, including:
 
