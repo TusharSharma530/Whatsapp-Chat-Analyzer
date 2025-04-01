@@ -17,7 +17,7 @@ This section displays the date of the first and last messages in the selected ch
 
 ### 👀 Top Statistics
 
-![image](https://github.com/user-attachments/assets/caee7e71-4aaa-4bf2-8627-211e5d6d6a23)
+![image](https://whatsapp-chat-analyzer-u9t581i3ch.streamlit.app/)
 This section highlights the core statistics of the chat, including:
 
 - Total Messages: Count of all messages sent.
@@ -27,24 +27,24 @@ This section highlights the core statistics of the chat, including:
 
 ### 👑 Most Active User in Chats
 
-![image](https://github.com/user-attachments/assets/ac9eb37b-9ce3-46a4-b1c6-bac82680cf80)
+![image](https://whatsapp-chat-analyzer-u9t581i3ch.streamlit.app/)
 Creating a bar graph to display the top 5 most active members, alongside a table showing all group members and their respective percentage contributions to the chat on the right.
 
 ### 📅 Monthly Messaging Trends
 
-![image](https://github.com/user-attachments/assets/134f5c5f-47ec-492d-8349-0b5cd608329e)
+![image](https://whatsapp-chat-analyzer-u9t581i3ch.streamlit.app/)
 
 This section provides insights into messaging activity over time on a monthly basis. The line graph displays the message count for each month, allowing you to identify peaks and patterns in messaging behavior.
 
 ### 📈 Daily Message Trends
 
-![image](https://github.com/user-attachments/assets/1dc6d656-77ee-4a76-89d9-1c034a18a9d3)
+![image](https://whatsapp-chat-analyzer-u9t581i3ch.streamlit.app/)
 
 Here, you can view the daily messaging trends, with a line graph plotting the message count for each day. This feature is useful for pinpointing specific days of heightened activity, such as holidays or important events.
 
 ### 📊 Chat Activity
 
-![image](https://github.com/user-attachments/assets/65865da0-aaab-46b5-9489-3a5cea97b8b7)
+![image](https://whatsapp-chat-analyzer-u9t581i3ch.streamlit.app/)
 
 The Chat Activity section includes two visualizations:
 
@@ -53,19 +53,19 @@ The Chat Activity section includes two visualizations:
 
 ### ☁️ Word Cloud
 
-![image](https://github.com/user-attachments/assets/ca484307-5d4c-4948-bd48-2a5d9794f604)
+![image](https://whatsapp-chat-analyzer-u9t581i3ch.streamlit.app/)
 
 The Word Cloud feature provides a visual representation of the most frequently used words in the chat. The larger the word, the more often it appears in the messages. This feature is great for understanding dominant topics or themes in the chat.
 
 ### 🕒 Weekly Activity Heatmap
 
-![image]https://whatsapp-chat-analyzer-u9t581i3ch.streamlit.app/
+![image](https://whatsapp-chat-analyzer-u9t581i3ch.streamlit.app/)
 
 The Weekly Activity Heatmap shows the distribution of messages throughout the week and at different times of the day. It visually represents peak activity times, allowing users to see which days and hours are the most active in the chat.
 
 ### 👀 Emoji Analysis
 
-![image]https://whatsapp-chat-analyzer-u9t581i3ch.streamlit.app/
+![image](https://whatsapp-chat-analyzer-u9t581i3ch.streamlit.app/)
 
 The Emoji Analysis provides insights into emoji usage in the chat, including:
 
